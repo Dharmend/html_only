@@ -1,0 +1,210 @@
+@charset "utf-8";
+ @media all and (max-width : 1200px) {
+	
+	
+	.nav-wrapper ul li a {
+  padding: 0 10px !important;
+} 
+
+.resp-tabs-list li a {
+  padding: 16px 18px;
+}
+
+.link {
+  margin-bottom: 20px;
+}
+
+.links {
+  padding-bottom: 8px;
+}
+	 
+ }
+ 
+ @media all and (max-width : 1100px) {
+
+.nav-wrapper ul li a {
+  padding: 0 5px !important;
+}..
+.content-box .content-body ul li a {
+  font-size: 86%;
+}
+
+.three-collmn .content-body {
+  padding: 16px 9px;
+  min-height: 200px;
+}
+
+.three-collmn .content-box .content-heading {
+  min-height: 54px;
+}
+
+.resp-tabs-list li a {
+  padding: 16px 12px;
+}
+
+ }
+ 
+  @media all and (max-width : 1023px) {
+	  .nav-wrapper ul li a {
+  font-size: 90%;
+  padding: 0 7px !important;
+}
+  }
+  
+   @media all and (max-width : 990px) {
+	  .nav-wrapper ul li a {
+  font-size: 90%;
+  padding: 0 4px !important;
+}
+
+.link .link-text {
+  width: 64%;
+} 
+
+.web-info {
+  margin-top: 13px;
+}
+   }
+  
+ @media all and (max-width : 940px) {
+	 
+	 .banner-wrapper .flex-control-nav {
+  bottom: 10px;
+  width: 30%;
+}
+	 
+	 .container {
+  width: 95%;
+}
+
+#nav li{ background:#df603f; border-bottom:1px solid #f3865d }
+.nav-wrapper ul li a{ color:#fff;}
+.nav-wrapper ul li:hover a, .nav-wrapper ul li.hover a, .nav-wrapper ul li.active a {background:#c13a14;color:#fff;}
+#nav li a:hover, #nav li.active a{ background:#C13A14;}
+#nav li:hover, #nav li:hover a, #nav li.hover a, #nav li.hover{background:#C13A14 !important;}
+
+.header-right {display:none;}
+
+#nav {
+  max-height:none;
+  overflow: visible;
+}
+
+.nav-wrapper ul li a {
+  font-size: 100%;
+  padding: 0 18px !important;
+}
+
+.right-body-panel{float:none; width:100%;}
+.left-body-panel{float:none; width:100%; margin-top:30px;}
+
+.minister{width:48%; float:left;}
+.budget {
+  float: right;
+  margin-top: 0;
+  min-height: 193px;
+  width: 48%;
+}
+.citizen-engagement{width:48%; float:left;}
+.citizen-engagement img{width:100%;}
+.in-focus{width:48%; float:right;}
+
+
+.right-body-panel:before, .right-body-panel:after {
+	display: table;
+	line-height: 0;
+	content: "";
+}
+.right-body-panel:after {
+	clear: both;
+}
+
+
+.links {
+  float: none;
+  width: 100%;
+}
+
+.link-right {
+  float: none;
+  margin: 30px 0;
+  width: 100%;
+}
+
+.documents-reports{float:left; width:48%;}
+.web-info{float:right; width:48%; margin-top:0px;}
+.web-info img{width:100%;}
+.link-right{margin-bottom:30px;}
+ }
+@media all and (max-width : 767px) {
+
+.budget {
+  min-height: 281px;
+}
+
+.bottom-links{display:block;}
+.bottom-links a{width:48%; min-height:80px; margin-bottom:20px; border:0; margin-right:2%; padding:10px 12px;
+background:#e7e8e8;}
+.bottom-links a:hover{background:#dfe2e2;}
+
+}
+	  
+@media all and (max-width : 640px) {
+	.minister, .budget, .citizen-engagement, .in-focus{float:none; width:100%;}
+	.minister{margin-bottom:20px;}
+	.budget{min-height:0px;}
+	
+	.two-collmn .content-box{width:100%; float:none; margin-right:0px; margin-bottom:20px;}
+	.three-collmn .content-box{width:100%; float:none; margin-right:0px; margin-bottom:20px;}
+	.three-collmn .content-box .content-heading {
+  min-height: 0px;
+}
+.three-collmn .content-body {
+  min-height: 0px;
+}
+
+.body-tab {
+  margin-top: 0px;
+}
+.link {
+  width: 50%;
+}
+.documents-reports{float:none; width:100%;}
+.web-info{float:none; width:100%; margin-top:30px;}
+
+.minister .minister-info {
+  padding-left: 20px;
+  padding-top: 0;
+  text-align: left;
+}
+
+.footer-links ul.list{float:none; width:100%; padding-bottom:0px; margin-bottom:20px;}
+}
+	  
+	  
+  @media all and (max-width : 639px) {
+	  
+	.logo {
+  background-position: 0 0;
+  background-size: 23% auto !important;
+  font-size: 100%;
+  min-height: 56px;
+  padding: 5px 0 0 40px;
+}  
+
+ }
+@media all and (max-width : 500px) {
+
+.link {
+  width: 100%;
+  float:none;
+}
+
+}
+   
+   
+@media all and (max-width : 400px) {
+
+		
+} 
+   

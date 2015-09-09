@@ -1,0 +1,30 @@
+
+
+@media all and (max-width : 940px) {
+#nav li{background:#3B3B3B;}
+.nav-wrapper ul li.open ul li a {background:#454545 !important; color:#ffff00 !important;}
+.nav-wrapper ul li.open ul li:hover a {
+background:#none !important;
+color:#ffff00 !important;
+}
+
+.nav-wrapper ul li a {
+color:#ffff00 !important;
+}
+
+ .nav-wrapper ul li:hover a {
+background:#none !important;
+color:#ffff00 !important;
+}
+.nav-wrapper ul li.open ul li a{color:#ffff00 !important;}
+}
+.legal-maincontainer h2 {  text-transform: uppercase !important; color:#fff;}
+.nav-wrapper ul li a{ border-top-color:#000; background:#000;}
+.nav-wrapper ul li:hover a, .nav-wrapper ul li.hover a, .nav-wrapper ul li.active a {background: #fff ;}
+.legal-maincontainer span,.legal-maincontainer p,.vidhikraya li,.subhkamaniyan-container .ministerright span,.admins-container h2,.releted-links-container h3,.entrus-containerleft li a:hover,.releted-links-containerabout h3,.advice-work li{ color:#fff;}
+.vidhikraya a,.subhkamaniyan-container .ministerright a,.admins-container li a,.entrus-containerleft li a,.rele-linkcontent li a,.footer-top-wrapper ul li a,.readmore,.rele-linkcontentinner li a,.nav-wrapper ul li a,.advance-container a{ color:#FF0;}
+.gallery-bg,.admins-container,.carousel-wrapper{ background:#000; border-top:1px solid #999; border-bottom:1px solid #999;}
+.incometax-container .incometax-content{ border:1px solid #999; background:#333;}
+.incometax-content .income-txt a:hover{ background:#fff; color:#000;}
+.incometax-content .income-txt{font-size:118%;}
+.slide-caption a{ background:#000;}

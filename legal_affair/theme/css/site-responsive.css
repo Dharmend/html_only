@@ -1,0 +1,100 @@
+@charset "utf-8";
+ @media all and (max-width : 1040px) {
+.flexslider li a.bg-slide {
+    height: 300px;
+}
+.flexslider {
+    margin: 0 auto;
+    position: relative;
+    width: auto;
+}
+.home-btm-slider .flexslider {
+    margin: 0 auto;padding: 0 0px;
+    position: relative;
+    width: auto;
+}
+
+.qck-link ul li{ line-height: normal;}
+	.gallery-heading {
+    float: left;
+    left: 1px;
+    position: absolute;
+    top: 1px;
+    z-index: 99999;
+}
+.slide-caption{ bottom:0;}
+.legal-main-containerleft {  width: 64%;}
+.entrus-containerleft { width: 64%;}
+.incometax-content .income-txt {  width: 58%;}
+.nav-wrapper ul li a{ padding:0 15px !important;}
+.incometax-container .incometax-content{ min-height:170px;}
+
+
+ }
+ @media all and (max-width : 940px) { 
+#nav li a:hover, #nav li.active a{ background:#DE6325;}
+#nav li:hover, #nav li:hover a, #nav li.hover a, #nav li.hover{background:#DE6325 !important; color:#fff;}
+
+ }
+ @media all and (max-width : 800px) {
+.header-right{ display:none;}
+.nav-wrapper ul li a{ background:#fff;}
+.slide-caption { bottom: -14px;}
+.nav-wrapper{ height:0 !important;}
+.legal-main-containerleft { border-right:none;float: none; padding-right: 0; width: 100%;}
+.legal-main-containerright { float: none;  margin-left: 0; width: 100%; margin-top:50px;}
+.subhkamaniyan-container .imgleft { width: 25%;}
+.subhkamaniyan-container .ministerright {  width: 70%;}
+.entrus-containerleft { float: left;  padding-right: 20px;  width: 62%;}
+.incometax-container .incometax-content { padding: 20px;}
+.incometax-content .imgcon { height: 70px;  width: 60px;}
+.incometax-content .income-txt { width: 64%; font-size:110%;}
+.incometax-container .incometax-content{ min-height:140px;}
+
+
+
+
+ }
+
+	  
+
+	  
+	  
+
+@media all and (max-width : 500px) {
+.banner-wrapper .container {  width: 100%;}
+.slide-caption { position: static;  width: 100%; background:#333; min-height:200px;}
+.slide-caption h2{ font-size:120%;}
+.slide-caption a {  font-size: 100%; width: 130px;}
+ .advance-container { width:33%;min-height: 165px;}  
+.admins-container .admins-content { width: 50%; margin:10px 0;}
+.entrus-containerleft { float: none;  padding-right: 0;  width:100%;}
+.entrus-containerright { float: none; margin-left: 0; width: 100%; margin-top:30px;}
+.incometax-container .incometax-content { float: none;  padding: 20px 40px;  width: 100%;}
+.incometax-content .imgcon {  float: left;  height: 80px;  width: 90px;}
+.logo {background-position: 0 0;  background-size: 20% auto !important;  font-size: 100%;  min-height: 56px;padding: 5px 0 0 40px;
+}
+.admins-container h2{ margin-bottom:10px;}
+.admins-container .admins-content{ margin:15px 0;}
+.incometax-container .incometax-content{ min-height:120px;}
+
+   }
+   
+   
+@media all and (max-width : 340px) {
+.flexslider .slides li figure{width:50%;}
+.legal-main-containerright{ margin-top:30px;}
+.advance-container { min-height: 155px;  width: 50%;}
+.admins-container .admins-content { margin: 10px 0; width: 100%;}		
+.admins-container h2{ margin-bottom:10px;}	
+.incometax-container .incometax-content { padding: 20px;}	
+.incometax-content .income-txt { font-size: 110%; width: 60%;}		
+.subhkamaniyan-container .ministerright{ padding-top:0; font-size:90%;}
+	
+		
+		
+		
+		
+		
+} 
+   

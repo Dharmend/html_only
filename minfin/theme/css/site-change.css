@@ -1,0 +1,39 @@
+
+
+@media all and (max-width : 940px) {
+#nav li{background:#3B3B3B;}
+.nav-wrapper ul li.open ul li a {background:#454545 !important; color:#ffff00 !important;}
+.nav-wrapper ul li.open ul li:hover a {
+background:#none !important;
+color:#ffff00 !important;
+}
+
+ .nav-wrapper ul li a {
+color:#ffff00 !important;
+}
+
+ .nav-wrapper ul li:hover a {
+background:#none !important;
+color:#ffff00 !important;
+}
+.nav-wrapper ul li.open ul li a{color:#ffff00 !important;}
+.gallery-holder .flex-control-thumbs li{ width:31%;}
+
+
+}
+/*.logo {  background-size: 25% auto;}*/
+.nav-wrapper ul li a,.recentupdate-content li a,.expenditure-content a,.link-icon .link-text,.dreports-container li a,.swatch-content li a,.aboutContainer-left li a,.aboutContainer-right li a{ color:#FF0;}
+.infocus-container h2,.business-container h2,.breadcam li,.breadcam li a,.aboutContainer-right h3,.aboutContainer-left h3{ color:#fff;}
+.minister-area,.carousel-wrapper{ background:#333;}
+.data-main-container,.link-icon span{ background:#333;}
+.data-main-container,.dreports-container,.gallery-container,.investor-btn,.fipb-btn,.nav-wrapper,.aboutContainer-right{  background:#000;}
+
+
+.content-box .content-heading a{background:#ffff00; color:#000;}
+
+.content-box .content-body ul li a, .body-container ul.list li a, .resp-tabs-list li a, .link .link-text, .footer-top-wrapper ul li a {
+  color: #ffff00 !important;
+}
+.resp-tabs-list li.resp-tab-active a, .in-focus h3, .minister .minister-info h4, .minister .minister-info h5, .documents-reports h3{color:#FFF !important;}
+.resp-tabs-list li.resp-tab-active, .resp-tabs-list, .resp-tabs-container, .in-focus, .links-bg-wrapper, .minister, .documents-reports, a.read-more, .footer-links{background:none !important; border:1px solid #333 !important;}
+.links-bg-wrapper{border-top:0; border-bottom:0;}
